@@ -16,5 +16,5 @@ zimbra_policyd: n
 hostname: "mail"
 domain: "localdomain"
 timezone: UTC
-#ipaddr 127.0.0.1
+ipaddr 127.0.0.1
 
